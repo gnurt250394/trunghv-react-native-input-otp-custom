@@ -1,7 +1,7 @@
 {
   "name": "trunghv-react-native-input-otp-custom",
   "title": "",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,12 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gnurt250394/trunghv-react-native-video-controls.git",
-    "baseUrl": "https://github.com/gnurt250394/trunghv-react-native-video-controls"
+    "url": "git+https://github.com/gnurt250394/trunghv-react-native-input-otp-custom.git",
+    "baseUrl": "https://github.com/gnurt250394/trunghv-react-native-input-otp-custom"
   },
   "keywords": [
     "react-native",
-    "react-native-video"
+    "TextInput",
+    "Text",
+    "InputOtp"
   ],
   "author": {
     "name": "Gnurt",
